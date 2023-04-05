@@ -13,7 +13,7 @@ To run this Pong game, you will need to download and install the LÖVE game engi
 
 3.Double-click the ".love" file to run the game.
 
-#Android
+# Android
 
 As long as you have LÖVE for Android installed from the Play Store or another source and assume you didn't download/use the "embed" suffix flavor, the following methods will work:
 
